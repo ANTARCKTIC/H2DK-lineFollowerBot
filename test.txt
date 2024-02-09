@@ -1,7 +1,7 @@
 3aslema ness lkol
 Khalil Chouchene : 
         "Project overview":
-        The goal is to create a robot for Esprit Ras Robots 2.0 competition, capable of precise movements, navigation, object detection, and decision-making.
+        The goal is to create a robot for Esprit Ras Robots 2.0 competition, capable of precise movements and decision-making.
         
         "Setup instructions":
         
