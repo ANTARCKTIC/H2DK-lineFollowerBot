@@ -1,1 +1,9 @@
 3aslema ness lkol
+Khalil Chouchene : 
+        "Project overview":
+        The goal is to create a robot for Esprit Ras Robots 2.0 competition, capable of precise movements, navigation, object detection, and decision-making.
+        
+        "Setup instructions":
+        
+        Install Arduino IDE: Download and install from Arduino's official website.
+        Acquire components: Obtain necessary electronic and mechanical parts.
