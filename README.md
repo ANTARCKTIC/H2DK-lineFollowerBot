@@ -26,5 +26,5 @@ For detailed documentation, troubleshooting tips, and FAQs, refer to the [Wiki](
 
 
 Happy coding!
-:D
+
 
