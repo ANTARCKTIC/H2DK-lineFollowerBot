@@ -18,7 +18,7 @@ The Line Follower Arduino Bot is a robotic project designed to autonomously navi
 
 ## Getting Started
 
-To get started with the Line Follower Arduino Bot, follow the instructions in the [Hardware Setup](#hardware-setup) and [Software Setup](#software-setup) sections of this README. Once set up, power on the robot, place it on a track with a visible line, and observe its autonomous line-following capabilities.
+To get started with the Line Follower Arduino Bot, follow the instructions in the [Hardware Setup](#https://github.com/ANTARCKTIC/H2DK-lineFollowerBot/blob/main/hardware-setup.md) and [Software Setup](#software-setup) sections of this README. Once set up, power on the robot, place it on a track with a visible line, and observe its autonomous line-following capabilities.
 
 ## Documentation
 
